@@ -7,12 +7,11 @@
 * 修改OpenAuth.Mvc/Web.config连接字符串，如下：
 ```xml
  <add name="OpenAuthDBContext" connectionString="Data Source=.;Initial Catalog=OpenAuthDB;Persist Security Info=True;User ID=sa;Password=000000;MultipleActiveResultSets=True" providerName="System.Data.SqlClient" />
-
 ```
+
 * 修改OpenAuth.WebApi/Web.config连接字符串,如下：
 ```xml
  <add name="OpenAuthDBContext" connectionString="Data Source=.;Initial Catalog=OpenAuthDB;Persist Security Info=True;User ID=sa;Password=000000;MultipleActiveResultSets=True" providerName="System.Data.SqlClient" />
-
 ```
 
 ## 设置启动项
