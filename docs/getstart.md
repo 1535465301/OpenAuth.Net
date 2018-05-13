@@ -17,7 +17,7 @@
 ## 设置启动项
 
 在vs解决方案视图中，右键解决方案“OpenAuth”属性，调整启动项，如下：
-![设置启动项](https://img.w3cschool.cn/attachments/image/20170418/1492482554218116.jpg "设置启动项")
+![设置启动项](http://www.openauth.me/upload/180513155208024.jpg "设置启动项")
 
 ## 编译运行
 
